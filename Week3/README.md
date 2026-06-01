@@ -43,7 +43,7 @@ The dataset contains socio-economic and health indicators for different countrie
 
 ---
 
-## AssignmentWorkflow
+## Assignment Workflow
 
 ### 1. Data Understanding
 
